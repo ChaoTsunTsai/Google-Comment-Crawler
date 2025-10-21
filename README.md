@@ -25,6 +25,7 @@ then exports the collected data into an Excel file for easy analysis and organiz
 
 ## | **Target Business Configuration**<br>
 
+## | **Output File**<br>
 ___________________________________________________________________________________________________<br>
 # | **Google Maps 評論爬蟲**<br>
 
@@ -53,3 +54,4 @@ ________________________________________________________________________________
 
 ## | **目標商家設定**<br>
 
+## | **輸出檔案**<br>

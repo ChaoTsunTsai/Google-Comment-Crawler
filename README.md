@@ -18,14 +18,18 @@ then exports the collected data into an Excel file for easy analysis and organiz
 4. Automatically exports results to an **Excel (.xlsx)** file<br>
 
 *Automatically stops at reviews older than one year to avoid duplicates and unnecessary data.*<br>
-
+![example1](image/google_map.png)<br>
+![example2](image/google_comment.png)<br>
 ## | **Package Installation**<br>
 
 `pip install -r requirements.txt`<br>
 
 ## | **Target Business Configuration**<br>
 
+Please paste the Google Maps link of the business you want to scrape reviews from into **store_url**.<br>
+
 ## | **Output File**<br>
+![example4](image/output_file_content.png)<br>
 ___________________________________________________________________________________________________<br>
 # | **Google Maps 評論爬蟲**<br>
 
@@ -47,11 +51,16 @@ ________________________________________________________________________________
 4. 結果自動輸出至 Excel (.xlsx)<br>
 
 *自動停止在一年以前的評論，避免重複與冗長資料*<br>
-
+![example1](image/google_map.png)<br>
+![example2](image/google_comment.png)<br>
 ## | **套件安裝**<br>
 
 `pip install -r requirements.txt`<br>
 
 ## | **目標商家設定**<br>
 
+請至 strore_url 貼上想要爬取評論的商家 Google Map 連結
+
 ## | **輸出檔案**<br>
+
+![example4](image/output_file_content.png)<br>

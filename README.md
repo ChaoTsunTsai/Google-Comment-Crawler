@@ -30,7 +30,7 @@ Please paste the Google Maps link of the business you want to scrape reviews fro
 
 ## | **Output File**<br>
 ![example4](image/output_file_content.png)<br>
-___________________________________________________________________________________________________<br>
+<br><br>
 # | **Google Maps 評論爬蟲**<br>
 
 以 Python 3.13 + Playwright 開發的自動化 Google Maps 評論爬蟲工具。<br>
